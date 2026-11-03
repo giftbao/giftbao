@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70d925ce-99ef-443d-a0e5-5338f7a67397" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nojekyll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_coverpage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_navbar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/魔力宝贝_树精长老任务攻略.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000000004" />
+      <entry key="MS500" value="1.000862709759514" />
+      <entry key="S2" value="1.2876046336833655" />
+      <entry key="S5" value="2.1209298460196466" />
+      <entry key="S10" value="2.8181214616165504" />
+      <entry key="S30" value="3.5337866415724943" />
+      <entry key="S60" value="3.7563732713057925" />
+      <entry key="M2" value="3.8754305472421864" />
+      <entry key="M5" value="3.962012227639201" />
+      <entry key="M10" value="4.242318576725336" />
+      <entry key="M15" value="4.732862514905056" />
+      <entry key="M30" value="6.10476534312762" />
+      <entry key="H1" value="7.553029315573719" />
+      <entry key="H2" value="8.616595315560627" />
+      <entry key="H4" value="9.26283801660899" />
+      <entry key="D1" value="9.870298361866361" />
+      <entry key="W1" value="9.981296308246284" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.9500304664561063E-7" />
+      <entry key="MS500" value="0.045667652828709215" />
+      <entry key="S2" value="0.6780864551731104" />
+      <entry key="S5" value="1.7492714115289265" />
+      <entry key="S10" value="2.5912425201527878" />
+      <entry key="S30" value="3.4453957764636516" />
+      <entry key="S60" value="3.710273616675766" />
+      <entry key="M2" value="3.851877558338327" />
+      <entry key="M5" value="3.9524449956272454" />
+      <entry key="M10" value="4.23728282704088" />
+      <entry key="M15" value="4.729205886713514" />
+      <entry key="M30" value="6.102516338836204" />
+      <entry key="H1" value="7.551682701168429" />
+      <entry key="H2" value="8.615840526658094" />
+      <entry key="H4" value="9.262435886039768" />
+      <entry key="D1" value="9.870227467058296" />
+      <entry key="W1" value="9.981286079349902" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LXeX6zABQrLRWJp30FJmh5V1vh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript 调试.index.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/WIKI/docs",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PS-262.11879.104" />
+        <option value="bundled-php-predefined-a98d8de5180a-9522f28f0b20-com.jetbrains.php.sharedIndexes-PS-262.11879.104" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="70d925ce-99ef-443d-a0e5-5338f7a67397" name="更改" comment="" />
+      <created>1793604877111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793604877111</updated>
+      <workItem from="1793604879763" duration="3453000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

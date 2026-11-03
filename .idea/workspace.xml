@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70d925ce-99ef-443d-a0e5-5338f7a67397" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nojekyll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_coverpage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_navbar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/魔力宝贝_树精长老任务攻略.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,10 +77,10 @@
       <entry key="W1" value="9.981286079349902" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3LXeX6zABQrLRWJp30FJmh5V1vh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -97,9 +91,10 @@
     "JavaScript 调试.index.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/WIKI/docs",
     "nodejs_package_manager_path": "npm"
   }
@@ -120,6 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1793604877111</updated>
       <workItem from="1793604879763" duration="3453000" />
+      <workItem from="1793698218460" duration="745000" />
     </task>
     <servers />
   </component>

@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70d925ce-99ef-443d-a0e5-5338f7a67397" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/base/套装系统.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/装备.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/base/商城.md" beforeDir="false" afterPath="$PROJECT_DIR$/base/商城.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/base/商城.md" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -86,6 +93,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3LXeX6zABQrLRWJp30FJmh5V1vh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -100,7 +110,7 @@
     "WebServerToolWindowFactoryState": "false",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/WIKI/docs",
+    "last_opened_file_path": "C:/Users/Giftbao/Desktop/QQ20261120-142612.png",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -127,7 +137,7 @@
       <updated>1793604877111</updated>
       <workItem from="1793604879763" duration="3453000" />
       <workItem from="1793698218460" duration="745000" />
-      <workItem from="1795144006047" duration="3789000" />
+      <workItem from="1795144006047" duration="7963000" />
     </task>
     <servers />
   </component>
